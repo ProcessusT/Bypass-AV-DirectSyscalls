@@ -18,7 +18,7 @@ Ces derniers ont été utilisés dans un lab d'entrainement au pentest et ne son
 
 
 
-<h2 align="center">Bypass-AV-ProcessHollowing</h2>
+<h2 align="center">Bypass-AV-DirectSyscalls</h2>
 
   <p align="center">
     Ce projet est basé sur le dépôt Github de chvancooten :
