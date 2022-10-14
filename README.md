@@ -9,7 +9,7 @@ Ces derniers ont été utilisés dans un lab d'entrainement au pentest et ne son
 <br />
 
 <p align="center">
-    Ma vidéo sur le sujet : <a href="#"><strong>Bientôt disponible</strong></a>
+    Ma vidéo sur le sujet : <a href="https://youtu.be/n5r2jc2X6lc"><strong>https://youtu.be/n5r2jc2X6lc</strong></a>
   </p>
 
 <br /><br />
